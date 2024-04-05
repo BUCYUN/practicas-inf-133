@@ -4,7 +4,7 @@ Completa tus datos personales en la siguiente tabla:
 -------------------------
 | Nombres  | Apellidos  | CI   |
 | -------- | ---------- | ---- |
-| `Brayan` | `Umpiri Chejo` | `ci` |
+| `Brayan` | `Umpiri Chejo` | `9919088` |
 
 ## Ejercicio 1
 Construye un servidor con el protocolo SOAP que permita a un cliente realizar las operaciones de suma, resta, multiplicación y división de dos números enteros.
