@@ -16,7 +16,7 @@ ruta_post = url + "pacientes"
 nuevo_paciente = {
     "ci":"1000",
     "nombre": "Juan",
-    "apellido": "Gonzalez",
+    "apellido": "Gonsalez",
     "edad": 30,
     "genero": "Masculino",
     "diagnostico": "Diabetes",
